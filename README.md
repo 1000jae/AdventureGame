@@ -1,5 +1,5 @@
 # AdventureGame
-Final Project for CSC207 at UofT, 2023. Thus, code not publicly available. <br />
+Final Project for CSC207 at UofT, 2023. <br />
 Click the below image to see a demo of the project. 
 
 
